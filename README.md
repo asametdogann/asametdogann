@@ -1,3 +1,3 @@
-### Hi My, Samet 👋
+### Hi I'm, Samet 👋
  
 
