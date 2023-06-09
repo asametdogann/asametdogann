@@ -26,7 +26,7 @@
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/StackOverflow-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/StackOverflow-Dark.svg" style="max-width: 100%;"></a>
 
 </p>
-
+<br/>
 <p dir="auto">
 
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Azure-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Azure-Dark.svg" style="max-width: 100%;"></a>
