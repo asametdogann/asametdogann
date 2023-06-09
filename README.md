@@ -53,7 +53,9 @@
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/XD.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/XD.svg" style="max-width: 100%;"></a>
 
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Firebase-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Firebase-Dark.svg" style="max-width: 100%;"></a>
- 
+
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/microsoft-sql-server.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/microsoft-sql-server.svg" style="max-width: 100%;"></a>
+
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/MySQL-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/MySQL-Dark.svg" style="max-width: 100%;"></a>
  
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/MongoDB.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/MongoDB.svg" style="max-width: 100%;"></a>
