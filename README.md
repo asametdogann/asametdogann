@@ -5,5 +5,5 @@
 
 <p dir="auto">
  
- <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg style="max-width: 100%;"></a>
+ <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" style="max-width: 100%;"></a>
  
