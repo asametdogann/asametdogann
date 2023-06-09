@@ -74,6 +74,8 @@
 
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Photoshop.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Photoshop.svg" style="max-width: 100%;"></a>
 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Illustrator.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Illustrator.svg" style="max-width: 100%;"></a>
+
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/AfterEffects.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/AfterEffects.svg" style="max-width: 100%;"></a>
 
 </p>
