@@ -5,5 +5,36 @@
 
 <p dir="auto">
  
- <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" style="max-width: 100%;"></a>
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" style="max-width: 100%;"></a>
+
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/VSCode-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/VSCode-Dark.svg" style="max-width: 100%;"></a>
  
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/CS.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/CS.svg" style="max-width: 100%;"></a>
+ 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/DotNet.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/DotNet.svg" style="max-width: 100%;"></a>
+ 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Bootstrap.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Bootstrap.svg" style="max-width: 100%;"></a>
+ 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/CSS.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/CSS.svg" style="max-width: 100%;"></a>
+ 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/HTML.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/HTML.svg" style="max-width: 100%;"></a>
+ 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Postman.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Postman.svg" style="max-width: 100%;"></a>
+ 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/CodePen-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/CodePen-Dark.svg" style="max-width: 100%;"></a>
+ 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/StackOverflow-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/StackOverflow-Dark.svg" style="max-width: 100%;"></a>
+
+</p>
+
+<p dir="auto">
+
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Azure-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Azure-Dark.svg" style="max-width: 100%;"></a>
+
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Git.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Git.svg" style="max-width: 100%;"></a>
+ 
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Github-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Github-Dark.svg" style="max-width: 100%;"></a>
+
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/JavaScript.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/JavaScript.svg" style="max-width: 100%;"></a>
+
+</p>
