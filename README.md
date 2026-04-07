@@ -1,83 +1,46 @@
-### Hi I'm, Samet 👋
- 
+### Hi I'm Samet 👋
 
-<h3 dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Languages and Tools:</h3>
+<h3 dir="auto">Languages and Tools:</h3>
 
 <p dir="auto">
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/VisualStudio-Dark.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/VSCode-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/VSCode-Dark.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/CS.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/CS.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/DotNet.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/DotNet.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Bootstrap.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Bootstrap.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/CSS.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/CSS.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/HTML.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/HTML.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Postman.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Postman.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/CodePen-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/CodePen-Dark.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/StackOverflow-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/StackOverflow-Dark.svg" style="max-width: 100%;"></a>
-
+  <!-- IDE & Languages -->
+  <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
+  <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 </p>
 <br/>
+
 <p dir="auto">
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Azure-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Azure-Dark.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Git.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Git.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Github-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Github-Dark.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/JavaScript.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/JavaScript.svg" style="max-width: 100%;"></a>
-
- <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Wordpress.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Wordpress.svg" style="max-width: 100%;"></a>
- 
+  <!-- Backend & Git -->
+  <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </p>
-
 <br/>
+
 <p dir="auto">
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Flutter-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Flutter-Dark.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Dart-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Dart-Dark.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Figma-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Figma-Dark.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/XD.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/XD.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Firebase-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Firebase-Dark.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/MySQL-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/MySQL-Dark.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/MongoDB.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/MongoDB.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/NodeJS-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/NodeJS-Dark.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Arduino.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Arduino.svg" style="max-width: 100%;"></a>
- 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Docker.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Docker.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/GCP-Dark.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/GCP-Dark.svg" style="max-width: 100%;"></a>
-
+  <!-- Mobile & Design -->
+  <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+  <img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img align="left" alt="After Effects" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 </p>
-
-
 <br/>
+
 <p dir="auto">
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Photoshop.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Photoshop.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/Illustrator.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/Illustrator.svg" style="max-width: 100%;"></a>
-
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://abdulsametdogan.com/content/githupIcon/AfterEffects.svg" data-canonical-src="https://abdulsametdogan.com/content/githupIcon/AfterEffects.svg" style="max-width: 100%;"></a>
-
+  <!-- Databases & Cloud -->
+  <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
